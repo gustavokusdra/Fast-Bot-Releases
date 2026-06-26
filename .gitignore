@@ -1,0 +1,10 @@
+# Ignorar todos os arquivos por padrão
+*
+
+# Exceções: Permitir apenas o próprio .gitignore e as 5 partes essenciais da atualização
+!/.gitignore
+!/interfacebot.exe
+!/interfacebot.dll
+!/interfacebot.deps.json
+!/interfacebot.runtimeconfig.json
+!/versao.txt
